@@ -1,4 +1,4 @@
-# 1회 - 문제 9
+# 1회 - 문제 9. 계단 게임
 
 """
 두 학생 A와 B는 계단 게임을 하였습니다.
@@ -77,3 +77,4 @@ ret = solution(recordA, recordB)
 
 
 print("solution 함수의 반환 값은", ret, "입니다.")
+# 결과 : solution 함수의 반환 값은 14 입니다.
