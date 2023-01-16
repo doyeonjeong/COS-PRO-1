@@ -79,13 +79,13 @@ bishops1 = ["D5"]
 ret1 = solution(bishops1)
 
 print("solution 함수의 반환 값은", ret1, "입니다.")
-# 결과 : solution 함수의 반환 값은 52 입니다.
+# 결과 : solution 함수의 반환 값은 50 입니다.
 
 bishops2 = ["D5", "E8", "G2"]
 ret2 = solution(bishops2)
 
 print("solution 함수의 반환 값은", ret2, "입니다.")
-# 결과 : solution 함수의 반환 값은 44 입니다.
+# 결과 : solution 함수의 반환 값은 42 입니다.
 
 '''
 [체스판 만들기] [1, 1] ~ [8, 8]
